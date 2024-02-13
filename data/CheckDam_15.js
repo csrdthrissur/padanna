@@ -1,0 +1,1 @@
+var json_CheckDam_15 = {"type":"FeatureCollection","name":"CheckDam_15","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Name":"Edachakai Paalam - Padinjarott Anakett Road","Ward":"14"},"geometry":{"type":"Point","coordinates":[75.151215210493035,12.167561981530138]}}]}

@@ -1,0 +1,1 @@
+var json_Cheap_16 = {"type":"FeatureCollection","name":"Cheap_16","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Name":"Cheap","Code":"W1C1","Ward":"1","Road_Acces":"Health Center Kurathy Valapu Road"},"geometry":{"type":"Point","coordinates":[75.141213114671913,12.19149109913484]}}]}
